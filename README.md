@@ -9,57 +9,43 @@ You will do this homework by editing the _README.md_ file. It's in
 and will be rendered to beautiful HTML when you visit your GitHub repo.
 
 ## Student Information
-Please also edit _README.md_ and replace your instructor's name and NetID with your own:
-
 _Student name_: Colin Diamond
 
 _Student NetID_: chd3
 
-Your NetID is typically your initials and a numeric digit. That's
-what we need here.
-
-_If you contacted us in advance and we approved a late submission,
-please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Stadium
 - Assumptions:
-  - explain_your_assumptions
+  I assume the stadium security includes the practice facilities and coaches' offices.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+A football stadium has a variety of assets that need to be protected, both during a game and when the stadium is not in use. First and foremost, the security personnel need to ensure the safety of all of the fans and the players during a game. In particular, the players and coaches need to have special protection because they are more likely to be the target of an angry fan or something similar. The building itself also needs to be protected from any sort of structural attack. When a game is not going on, the building needs to be protected from vandalism and break-ins. You don’t want unknown people having access to the stadium when it’s not in use because you can’t predict what they might want to do. If the team is nationally ranked, there are also people who might want to steal their game plans or observer their practices. This information needs to be protected so that no one else gets an unfair advantage over the team.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+The first security threat to defend against is the basic threat of people bringing in weapons or things that could be used as weapons. If someone brings a gun or a knife, they could easily do a lot of damage. There should also be extra security between the fans and the players, as angry, drunk, or even excited fans could harm players or coaches depending on how the game goes. Additionally, fans rushing the field after a big win can be dangerous. For example, there have been cases where people have been seriously injured when excited fans rushed the field and took down the goalposts after a victory. The main security threats that have to be considered outside of game time are break-ins. People may want to get into the stadium and/or practice facilities to either vandalize or to steal things like playbooks.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+For games, the first security measure is a bag and ticket check at the entrance to the stadium. With a moderate amount of security personnel, this can be done efficiently. They won’t necessarily be able to find every type of weapon, but a simple bag check can catch many threats. This also ensures that everyone coming into the stadium bought a ticket. Bag and ticket checks will increase the time it takes to get into the stadium, but tickets need to be checked anyways, so adding a bag check doesn’t increase the time significantly. Second, I could put a few undercover security officers in the stands pretending to be fans to monitor any fights that may break out between fans. Finally, I could put some officers in the space between the players’ bench and the stands. There wouldn’t need to be too many officers here, as fans only need to see a few officers to be deterred.
+For non-game times, the stadium and practice facilities should be gated and locked securely. Compared to the cost of building a stadium, the cost of adding a secure gate is negligible. The stadium and practice facilities should also have security cameras in place. Security cameras help deter unauthorized access and can catch anyone who actually manages to break in.  
+
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Grading
 - Assumptions:
-  - explain_your_assumptions
+  This is grading for homework like with COMP 182 where the graders have the answer key in advance for reference before the students have to turn in the homework. Security includes both actual grading and generic TA activities like office hours.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+The three main assets that need to be protected when grading for a large class are the answer key, the integrity of the student submissions, and the student identities. If it’s a large class, it is likely that some students will want to cheat on the assignment by looking at the answer key in advance. The answers need to remain hidden from the students. Once students have submitted their assignments, you as a grader need to maintain the integrity of the class by determining which (if any) of the students cheated based on their submissions. Lastly, when you grade someone, you need to keep their identity and their grade private due to FERPA regulations. 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+The security threats I will defend against are cheating by looking at the answer key, cheating by copying off another student or collaborating when collaboration isn’t allowed, and students trying to find out other students’ grades. There are a variety of ways students can cheat. They could look answers up online, they could steal the rubric, they could look at the rubric when you’re away from your computer, they could ask others what the answer is, etc. Most of these methods can be caught though. Similarly, when a student wants to find out another student’s grades, they could either try to look it up on a grader’s computer or they could simply ask the grader. It could be more complicated, like a sort of fishing attack, but the grader needs to be aware of students asking innocent questions that could give up unintended information.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+In terms of protecting the answer key, the most reliable way is to keep it on your (password protected) computer and only look at it in private. This may not be feasible though, as often graders need to refer to the solutions when answering questions at office hours. In this case, the grader needs to move away from the students and ensure that no one is looking at the solutions over their shoulder. This also means the graders should not leave their laptop open and unattended where students could potentially access the solutions without the grader’s knowledge. To catch students who cheated, graders need to look out for two students who have very similar answers (e.g. with code assignments, there are tools to compare student submissions to each other). Graders also need to investigate suspicious looking answers, such as submissions where the language is too close to the rubric. Lastly, in terms of not violating FERPA, graders simply need to be very intentional about not discussing the grades of any student with anyone else (excluding the professor). Fishing attacks can be effective when you’re not expecting them, but if the grader is aware of the rules about sharing grades they are much less likely to absentmindedly reveal information they shouldn’t.
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: Home Security - Ensuring your house is secure from anyone wanting to hurt you or take your property.
 - Assumptions:
-  - explain_your_assumptions
-- Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+I assume the house is in a relatively safe neighborhood (e.g. average crime rate) so that we don't have to worry about more extreme threats like gang violence, etc.
+- Assets:The two main assets I want to protect in the case of my home are my possessions and my personal safety. My house is where almost all of my valuable physical possessions are located (with the exception of things like my money stored in the bank). Many things have both a monetary and a sentimental value. While I don’t think of him as a possession, my dog is also protected by my house. I want my dog to be safe even when I’m not there. When I am home, I don’t want to worry about my personal safety. I should have the freedom to do what I want in my own home without fear of interference from anyone. I also spend large portions of my time at home sleeping, where I can’t respond to threats, so my house needs to be safe even when I’m not actively involved in ensuring its security.   
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+The most common threat to homes is burglary. Burglars usually try to break in during the day when people aren’t home because it’s easier to steal things when you don’t have to worry about the owner coming back. A subset of burglary is stealing packages from front doors. Most delivery companies will leave packages sitting on the front step if you aren’t home, and opportunistic thieves can steal those packages without having to actually get into the house. Protecting the house from burglary is very similar to protecting personal safety, because both burglars and murders need to break into the house before they can steal from you or hurt you. If anyone who doesn't like you wants to enter your home to hurt you, there should be both outside defenses preventing them from getting inside and inner defenses so that if someone breaks into your house with the intent to harm you you can defend yourself.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+Home security is mainly about protecting the points of entry to the house. This means that all doors need to be sturdy and locked securely. Security is only as strong as the weakest link, so if the front door is secured but the back door isn’t locked, the lock on the front door doesn’t do any good. To deter package thieves, I can put a cheap security camera on the porch, and maybe even a sign saying something like “You’re on camera” as added deterrent. I would rather people know about the camera so it deters them instead of having to use the camera to identify a thief after they’ve already taken a package. Alarm systems are also very useful security measures. When the alarm system is armed, it detects doors opening, windows breaking, and movement in the house. When someone trips the alarm, it makes a very loud noise and calls the cops. Hopefully any thief will leave after the alarm sounds. It’s worth noting that an alarm system is more difficult with pets, as their movement through the house could trigger the alarm if the system is configured wrong.
+If you are very concerned about personal security, it could be worth it to have a gun in the house for self-defense. That way, if someone breaks in you have something to defend yourself with. Guns can be prone to accidents though, so it may be safer to just keep a baseball bat or pepper spray or something similar on hand.
 
